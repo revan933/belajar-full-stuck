@@ -15,3 +15,4 @@ class Product
 }
 
 $product1 = new Product('Smartphone', 5000000,'Smartphone terbaru dengan kamera berkualitas tinggi');
+$product1 = new Product('infinix', 1000000,'Smartphone terbaru dengan kamera berkualitas rendah');
