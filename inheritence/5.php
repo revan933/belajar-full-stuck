@@ -26,3 +26,4 @@ class Motor extends kendaraan {
 class Tipemotor extends Motor{
     echo "ini tipe motor indonesia";
 }
+
